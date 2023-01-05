@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 5px;
+}
+body {
+    background-color: gray;
+}
+.content {
+    background-color: #131313;
+    width: fit-content;
+    margin: 10px auto;
+    height: fit-content;
+}
+button {
+    padding: 10px;
+    background-color: rgb(101, 211, 101);
+    border: 1px;
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    width: 228.72px; /* Set width for preventing the text change button width */
+    margin: 10px;
+}
+p {
+    color: #f1f1f1;
+    font-family: monospace;
+    margin: 10px auto;
+    padding: 5px;
+    width: 300px;
+    border: 2px solid white;
+    width: 228.72px;
+    text-align: center;
+    border-radius: 5px;
+}
+.empty {
+    padding-top: 10px;
+}
